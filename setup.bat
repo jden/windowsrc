@@ -2,6 +2,7 @@
 
 choco install googlechrome
 choco install git
+choco install 7zip
 choco install sublimetext3
 choco install sublimetext3.packagecontrol
 choco install virtualbox
